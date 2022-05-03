@@ -18,3 +18,13 @@ body{
 .parceiros{
     background-color: rgb(194, 255, 251);
 }
+
+#foto3{
+    padding-top: 23px;
+    height: 301px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
